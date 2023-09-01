@@ -1,0 +1,7 @@
+org/freecodecamp/app/model/Actor$.class
+org/freecodecamp/app/model/Film.class
+META-INF/panache-archive.marker
+org/freecodecamp/app/model/Actor.class
+org/freecodecamp/app/repository/FilmRepository.class
+org/freecodecamp/app/model/Film$.class
+org/freecodecamp/app/FilmResource.class
