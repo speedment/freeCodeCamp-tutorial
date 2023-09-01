@@ -8,7 +8,7 @@ This repository contains the complete source code for the application built in t
 - Sakila database running in a Docker container, see instructions xref:database[here].
 
 == Application overview
-image::application.png[Application overview]
+image::application.png[Application overview, width=500px]
 
 [#database]
 == Database
@@ -23,7 +23,7 @@ NOTE: This Docker image was built for ARM64 architecture, thus if you are runnin
 
 Here is an overview of the relevant part of the schema: 
 
-image::schema.png[Sakila database schema]
+image::schema.png[Sakila database schema, width=500px]
 
 == Running the application in dev mode
 You can run your application in dev mode that enables live coding using:
